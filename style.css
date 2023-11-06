@@ -1,0 +1,11 @@
+.TableHeader{
+    border: 2px solid black;
+    margin-top: 0%; 
+    width: 1350px;
+    height: 100px;
+}
+
+.dotted{
+    border-style: dotted;
+    text-align: center;
+}
