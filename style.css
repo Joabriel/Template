@@ -1,11 +1,24 @@
 .TableHeader{
     border: 2px solid black;
-    margin-top: 0%; 
-    width: 1350px;
-    height: 100px;
+    align-items: top;
 }
 
-.dotted{
-    border-style: dotted;
-    text-align: center;
+.TableCenter{
+    border: 2px solid black;
+    align-items: center;
+}
+
+.TableRight{
+    border: 2px solid Black;
+    align-items: right; 
+}
+
+.TableLeft{
+    border: 2px solid Black;
+    align-items: left; 
+}
+
+.TableFooter{
+    border: 2px solid black;
+    align-items: bottom;
 }
